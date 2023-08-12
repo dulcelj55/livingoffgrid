@@ -3,14 +3,41 @@
 }
 h1{
    font-size: 40px;
-   text-align: center;
-}
-.images {
-  width : 150px;
+   text-align: left;
 }
 nav {
   display: flex;
-justify-content: space-around;
+  justify-content: space-around;
+  
+  background-color: white ;
+  font-size: 30px;
+}
+.site-nav{
+  background-color: white;
+}
+#vanpic{
+  width: 400px;
+
+}
+.story{
+  display:flex;
+  width: 100%;
+  padding :30px;
+  font-size: 30px;
+
+}
+.items-list{
+  display: flex;
+}
+
+img {
+
+  width : 150px;
+}
+.images{
+  display:flex;
+ 
+
 
 }
 .container3{
